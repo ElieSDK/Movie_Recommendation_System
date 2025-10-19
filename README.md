@@ -4,6 +4,8 @@
 This project implements a basic movie recommendation system using the MovieLens dataset. It computes item-based and user-based recommendations using cosine similarity. The system allows you to predict ratings and generate top-N recommendations for users.
 
 ## Dataset
+The MovieLens dataset contains 25 million movie ratings from users, along with movie titles and genres. It’s widely used for building and testing recommendation systems.
+
 Source: [MovieLens Dataset](https://grouplens.org/datasets/movielens/)
 
 ## Key Features
